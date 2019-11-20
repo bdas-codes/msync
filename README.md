@@ -1,21 +1,9 @@
-# Vynchronize
-[Access the application here!](https://vynchronize.herokuapp.com/)
+# msync
+[Access the application here!](https://https://bijaya-cc-assignment.appspot.com/)
 
-![Vynchronize Screenshot](https://raw.githubusercontent.com/kyle8998/Vynchronize/master/img/screenshot2.PNG)
+msync is a real-time online video synchronization platform. You can enjoy any video available online with friends who may not be next to you!
 
-Vynchronize is a real-time online video synchronization platform. You can enjoy any video available online with friends who may not be next to you!
-
-Vynchronize currently supports YouTube, Daily Motion, Vimeo, and essentially any .mp4/.webm on the internet with the HTML5 Player!
-
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
-
-[![Build Status](https://travis-ci.org/kyle8998/Vynchronize.svg?branch=master)](https://travis-ci.org/kyle8998/Vynchronize)
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<a href="https://github.com/kyle8998/Vynchronize/commits/master"> <img src="https://img.shields.io/github/last-commit/kyle8998/Vynchronize.svg?label=last%20deployed" alt="last deployed"></a>
-[![GitHub issues](https://img.shields.io/github/issues/kyle8998/Vynchronize.svg "GitHub issues")](https://github.com/kyle8998/Vynchronize/issues)
-[![GitHub stars](https://img.shields.io/github/stars/kyle8998/Vynchronize.svg "GitHub stars")](https://github.com/kyle8998/Vynchronize/stargazers)
-[![HitCount](http://hits.dwyl.io/kyle8998/Vynchronize.svg)](http://hits.dwyl.io/kyle8998/Vynchronize)
-
+msync currently supports YouTube, Daily Motion, Vimeo, and essentially any .mp4/.webm on the internet with the HTML5 Player!
 ---
 
 ### Dependencies
@@ -60,7 +48,7 @@ npm test
 
 ##### The Basics
 
-The entire functionality of Vynchronize relies on web sockets, specifically
+The entire functionality of msync relies on web sockets, specifically
 Socket.IO. When a client connects to the server, a socket is created. The user
 then enters a name and a room number. The inputs are sent back to the server, and
 it creates/joins a room of that name with Socket.IO. Any user can connect to the
@@ -199,5 +187,5 @@ grabbing the title required extra work, and could not be done continuously on th
 
 **Note**: This was a very brief summary of what goes on behind the scenes.
 
-Please see the [Wiki](https://github.com/kyle8998/Vynchronize/wiki) for more
+Please see the [Wiki](https://github.com/BijayaDas/msync/wiki) for more
 information.
