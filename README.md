@@ -3,7 +3,7 @@
 
 ![Media Synching App Screenshot](https://raw.githubusercontent.com/BijayaDas/msync/master/img/screenshot2.PNG)
 
-![Author Screenshot](https://raw.githubusercontent.com/BijayaDas/msync/master/img/screenshot2.PNG)
+![Author Screenshot](https://raw.githubusercontent.com/BijayaDas/msync/master/img/screenshot1.PNG)
 msync is a real-time online video synchronization platform. You can enjoy any video available online with friends who may not be next to you!
 
 msync currently supports YouTube, Daily Motion, Vimeo, and essentially any .mp4/.webm on the internet with the HTML5 Player!
